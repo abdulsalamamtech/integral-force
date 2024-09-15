@@ -18,10 +18,10 @@ This project focuses on building an AI-powered personal tutor that promotes lear
 
 ### Key Features:
 1. **Leaderboard/Grading System:**  
-   We plan to implement a leaderboard or simple grading system that allows users to track their progress as they advance through different books and acquire more knowledge on anti-corruption and crime prevention strategies.
+   We plan to implement a leaderboard or simple grading system that allows users to track their progress as they advance through different books and acquire more knowledge on anti-corruption and crime prevention strategies as a global citizen.
    
 2. **Q&A Game:**  
-   A simple question-and-answer game will engage users by presenting various behavioral tricks and tips for being a dutiful global citizen. This will provide an interactive learning experience while reinforcing key lessons.
+   A simple question-and-answer game will engage users by presenting various behavioural tricks and tips for being a dutiful global citizen. This will provide an interactive learning experience while reinforcing key lessons.
 
 ---
 
