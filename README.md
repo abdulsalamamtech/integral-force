@@ -27,7 +27,7 @@ This project focuses on building an AI-powered personal tutor that promotes lear
 
 ## Challenges
 
-While adding these features to our existing repository, we faced several challenges. Due to technical difficulties, we decided to write new code to integrate our intended features more efficiently.
+While adding these features to our existing repository, we faced several challenges. Due to technical difficulties, one is that we are not proficient in the svelte programming for the frontend as it keeps populating errors, we decided to write new code to integrate our intended features more efficiently.
 
 ---
 
